@@ -59,14 +59,14 @@ Just download (Like the way it used to be)
 
 ::
 
-    wget -O speedtest-cli https://raw.githubusercontent.com/MagnoMonteCerqueira/speedtest-cli/master/speedtest.py
+    wget -O speedtest-cli https://raw.githubusercontent.com/MagnoMonteCerqueira/Speedtest-cli/master/speedtest.py
     chmod +x speedtest-cli
 
 or
 
 ::
 
-    curl -Lo speedtest-cli https://raw.githubusercontent.com/MagnoMonteCerqueira/speedtest-cli/master/speedtest.py
+    curl -Lo speedtest-cli https://raw.githubusercontent.com/MagnoMonteCerqueira/Speedtest-cli/master/speedtest.py
     chmod +x speedtest-cli
 
 Usage
@@ -84,7 +84,7 @@ Usage
 
     Command line interface for testing internet bandwidth using speedtest.net.
     --------------------------------------------------------------------------
-    https://github.com/MagnoMonteCerqueira/speedtest-cli
+    https://github.com/MagnoMonteCerqueira/Speedtest-cli
 
     optional arguments:
       -h, --help            show this help message and exit
@@ -129,7 +129,7 @@ Usage
 Python API
 ----------
 
-See the `wiki <https://github.com/MagnoMonteCerqueira/speedtest-cli/wiki>`_.
+See the `wiki <https://github.com/MagnoMonteCerqueira/Speedtest-cli/wiki>`_.
 
 
 Inconsistency
