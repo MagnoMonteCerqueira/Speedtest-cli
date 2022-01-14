@@ -126,10 +126,6 @@ Usage
       --version             Show the version number and exit
 
 
-Python API
-----------
-
-See the `wiki <https://github.com/MagnoMonteCerqueira/Speedtest-cli/wiki>`_.
 
 
 Inconsistency
